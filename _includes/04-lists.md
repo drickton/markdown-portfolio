@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Some Things I Like
+* Dragons :dragon:
+* Japan :japan:
+* Reading :books:
