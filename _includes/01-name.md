@@ -1,4 +1,5 @@
-# Dave Taylor
-## My Markdown Portfolio
+## Dave Taylor
+### My Markdown Portfolio
 
-### Git is fun!
+#### Git is fun!
+
