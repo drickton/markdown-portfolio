@@ -9,5 +9,5 @@
 * Writing
 * Drawing
 * Learning languages
-  * Japanese
-  * Spanish
+  * *Japanese*
+  * *Spanish*
