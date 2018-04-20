@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Dave Taylor
+## My Markdown Portfolio
+
+### Git is fun!
